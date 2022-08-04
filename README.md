@@ -6,8 +6,6 @@ Currently the implementation only consists of the locality in Delhi, but it can 
 
 ![UI](./images/app.png)
 
-### DEMO VIDEO
-https://youtu.be/lcXM4QS5a_Y
 
 ### graph-parser-osm
 Consists of Java program that parses OSM (OpenStreetMap) XML files into json graph representation.
